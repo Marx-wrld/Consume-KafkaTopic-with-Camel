@@ -15,4 +15,5 @@ Consuming messages from a Kafka topic seamlessly using Apache Camel and Spring B
 ```
 - You'll receive a confirmation response from Camel with code 200 (OK)
 
-file:///home/marx/Pictures/Screenshot-3.png
+![Screenshot-3](https://github.com/Marx-wrld/Consume-KafkaTopic-with-Camel/assets/105711066/ca910c2a-0135-4352-9e0e-acbde5c51187)
+
