@@ -13,3 +13,6 @@ Consuming messages from a Kafka topic seamlessly using Apache Camel and Spring B
   "Messages": "THE WEEKEND HAS STARTED!"
 }
 ```
+- You'll receive a confirmation response from Camel with code 200 (OK)
+
+file:///home/marx/Pictures/Screenshot-3.png
